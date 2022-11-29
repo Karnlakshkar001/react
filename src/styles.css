@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: auto;
+  border-radius: 0px 30px;
+  background-color: wheat;
+  border: 2px solid black;
+}
+
+p {
+  color: black;
+  border: 2px solid black;
+  border-radius: 0px 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.row-1 {
+  display: flex;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 10px;
+}
+.row-2 {
+  display: flex;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 10px;
+  font-family: "Times New Roman", Times, serif;
+  padding-left: auto;
+  padding-right: auto;
+}
